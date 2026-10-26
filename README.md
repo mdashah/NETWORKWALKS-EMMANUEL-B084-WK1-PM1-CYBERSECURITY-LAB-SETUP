@@ -1,6 +1,5 @@
 # NETWORKWALKS-EMMANUEL-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
-Cybersecurity Lab Setup and Virtual Environment Configuration with Kali Linux
-# 🔐 Cybersecurity Lab Environment Setup
+# 🔐 Cybersecurity Virtual Lab Environment Setup with Kali Linux
 
 ## 📖 Overview
 
